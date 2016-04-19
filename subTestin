@@ -1,0 +1,5 @@
+Branch status of git commits:
+git log --all --graph --decorate --oneline --simplify-by-decoration
+
+this isn't even git anymore
+tail -n +23 /SYM/CONFIGURE/HOST.CFG | cut -d'=' -f2 |sort -n |pg
